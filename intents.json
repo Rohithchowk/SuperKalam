@@ -1,0 +1,316 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hiiiiii",
+        "helloooo",
+        "Hiii",
+        "Helloo","heyy","heyyy",
+        "hiiii",
+        "hiiiii",
+        "Hii",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "superkalam_info",
+      "patterns": [
+        "What is SuperKalam?",
+        "What is Super Kalam?",
+        "Tell me about SuperKalam",
+        "Explain SuperKalam",
+        "What does SuperKalam do?",
+        "SuperKalam information"
+      ],
+      "responses": [
+        "SuperKalam is an AI-powered personal mentor designed to help students prepare for the UPSC exams. It offers daily news analysis, practice MCQs, feedback on handwritten answers, and more. [Watch more about SuperKalam here](https://youtu.be/0zDjmBjaKTQ)."
+      ]
+    },
+    
+    {
+      "tag": "upsc_schedule",
+      "patterns": [
+        "What is the UPSC planning schedule?",
+        "UPSC preparation schedule",
+        "Tell me about the UPSC study plan",
+        "UPSC planning",
+        "How to prepare for UPSC with SuperKalam?"
+      ],
+      "responses": [
+        "SuperKalam's UPSC planning schedule includes:\n- Daily News Analysis\n- Subject-wise Timetable\n- Practice MCQs\n- Handwritten Answer Feedback\n- Revision Sessions\n- Mock Tests\nFor more details, visit the SuperKalam platform."
+      ]
+    },
+    {
+      "tag": "super_kalam_upsc_pricing",
+      "patterns": [
+        "What is the pricing for the SuperKalam UPSC course?",
+        "SuperKalam UPSC course pricing",
+        "How much does the SuperKalam UPSC course cost?",
+        "Cost of UPSC course at SuperKalam",
+        "SuperKalam UPSC course fee"
+      ],
+      "responses": [
+        "The SuperKalam UPSC course offers various options for aspirants. One of their key offerings is the Mains Test Series 2024, priced at ₹4,999, down from the original price of ₹10,000. This series includes 16 full-length mock tests for all GS subjects, 5 full-length mock tests for essay writing, detailed model answers, instant feedback discussions, and comprehensive video discussions with educators. It also provides unlimited evaluations on any handwritten answers. For more details, you can visit their official website at [SuperKalam](https://superkalam.com/upsc-mains-test-series-2024)."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye"
+      ],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "what are you doing?",
+      "patterns": [
+        "hey! what are you doing?",
+        "what are you doing"
+      ],
+      "responses": [
+        "I'm here to assist you! How can I help you today?"
+      ]
+    },
+    {
+      "tag": "superkalam_pricing",
+      "patterns": [
+        "What is the pricing for SuperKalam?",
+        "How much does SuperKalam cost?",
+        "Tell me about the pricing of SuperKalam"
+      ],
+      "responses": [
+        "SuperKalam offers an annual plan at ₹10 per day. This includes access to their Mains Test Series and Focus Batch - UPSC 2025 courses."
+      ]
+    },
+    {
+      "tag": "superkalam_courses",
+      "patterns": [
+        "What courses does SuperKalam offer?",
+        "Tell me about the courses at SuperKalam",
+        "What are the courses provided by SuperKalam?"
+      ],
+      "responses": [
+        "SuperKalam offers two main courses:\n\n1. Mains Test Series: A comprehensive test series for UPSC Mains preparation.\n\n2. Focus Batch - UPSC 2025: A targeted batch designed for aspirants aiming for the 2025 UPSC exam."
+    ]
+    },
+    {
+      "tag": "superkalam_mains_test_series",
+      "patterns": [
+        "Tell me about the Mains Test Series",
+        "What is included in the Mains Test Series?",
+        "Describe the Mains Test Series at SuperKalam"
+      ],
+      "responses": [
+        "The Mains Test Series at SuperKalam includes:\n\n- 16 full-length mock tests for all GS subjects (four each)\n- 5 full-length mock tests for essay answer writing\n- Detailed model answers focusing on static and current affairs content\n- Instant discussion with SuperKalam on feedback and improvements\n- Comprehensive video discussions with educators for performance analysis\n\n🔥 BONUS: Unlimited evaluations from SuperKalam on any of your handwritten answers."
+    ]
+    },
+    {
+      "tag": "superkalam_focus_batch_2025",
+      "patterns": [
+        "Tell me about the Focus Batch - UPSC 2025",
+        "What is included in the Focus Batch - UPSC 2025?",
+        "Describe the Focus Batch - UPSC 2025 at SuperKalam"
+      ],
+      "responses": [
+        "The Focus Batch - UPSC 2025 at SuperKalam includes:\n\n- Daily targets with GS targets and real-time progress reports\n- Personal mentorship with instant access to teachers and unlimited access to SuperKalam\n- Full syllabus coverage by your favorite teachers\n- Modules covering the entire GS syllabus for Prelims and Mains (including Ethics)\n- Daily, weekly, and monthly current affairs modules with Q&A\n- Unlimited practice with topic-wise and difficulty-wise MCQs\n\n🔥 BONUS: Test series worth ₹25k for Prelims for comprehensive coverage."
+    ]
+    },
+    {
+      "tag": "superkalam_focus_batch_coverage",
+      "patterns": [
+        "What is covered in the Focus Batch?",
+        "Tell me what is included in the Focus Batch?",
+        "Describe the coverage of the Focus Batch - UPSC 2025"
+      ],
+      "responses": [
+        "The FOCUS batch covers the following:\n\n- GS Modules from Prelims and Mains\n- CSAT Course & Tests\n- Prelims Test Series\n- Mains Test Series\n- SuperKalam Platform for Personalized Learning & Unlimited MCQs\n- Evaluation on any topic (It's pure magic, trust us :)\n- Daily Targets for a full year\n- Close Community with your teachers (1:10 Teacher to Student ratio for effective progress tracking)."
+    ]
+    },
+    {
+      "tag": "superkalam_gs_modules",
+      "patterns": [
+        "Will you provide GS Modules for Prelims and Mains?",
+        "Do you offer General Studies modules for Prelims and Mains?",
+        "Are GS Modules included for Prelims and Mains?"
+      ],
+      "responses": [
+        "Yes, comprehensive General Studies modules for both Prelims and Mains are provided. These modules are simple, precise, and serve as a one-stop destination for GS preparation. Just read, understand, and revise with our best-in-class evaluation and personal guidance."
+    ]
+    }, 
+    {
+      "tag": "focus_batch_includes_test_series",
+      "patterns": [
+        "Does the FOCUS batch include Prelims and Mains Test Series?",
+        "Are Prelims and Mains Test Series part of the FOCUS batch?",
+        "What test series are included in the FOCUS batch?"
+      ],
+      "responses": [
+        "Yes, the FOCUS batch includes a series of mock tests for both Prelims and Mains."
+      ]
+    },
+    {
+      "tag": "focus_batch_csat_inclusion",
+      "patterns": [
+        "Does the FOCUS batch include CSAT preparation?",
+        "How does the FOCUS batch address CSAT?",
+        "What about CSAT in the FOCUS batch?"
+      ],
+      "responses": [
+        "The FOCUS batch includes comprehensive preparation for CSAT. This involves practice tests and content sessions, with a focus on CSAT for at least 8 hours each month."
+      ]
+    },
+    {
+      "tag": "focus_batch_teachers",
+      "patterns": [
+        "Who are the teachers for the FOCUS batch?",
+        "Can you tell me about the instructors for the FOCUS batch?",
+        "Who will be teaching the FOCUS batch?"
+      ],
+      "responses": [
+        "The FOCUS batch will be taught by Vimal Singh Rathore Sir and Arpita Ma'am."
+      ]
+    },
+    {
+      "tag": "focus_batch_access_duration",
+      "patterns": [
+        "Until when can students access the FOCUS batch?",
+        "How long is the FOCUS batch accessible?",
+        "What is the duration of access for the FOCUS batch?"
+      ],
+      "responses": [
+        "You can access all the course materials and support until the UPSC Mains 2025. If you have any queries, you can contact us at ask@kalam.in or WhatsApp us."
+      ]
+    },{
+      "tag": "test_series_key_features",
+      "patterns": [
+        "What are the key features of the test series?",
+        "Can you tell me about the features of the test series?",
+        "What makes the test series special?"
+      ],
+      "responses": [
+        "The key features of the test series include:\n\n- Practice questions modeled on the UPSC Mains pattern in a time-bound manner, enhancing speed and analytical thinking.\n- Value-added material for Current Affairs and General Studies to improve answers.\n- Provision to know your All India Rank after each test.\n- Personalized 1:1 discussion on feedback with SuperKalam."
+      ]
+    },
+    {
+      "tag": "test_series_number_of_tests",
+      "patterns": [
+        "How many tests are included in the test series?",
+        "What is the total number of tests in the series?",
+        "Can you tell me how many tests are part of the test series?"
+      ],
+      "responses": [
+        "The test series includes a total of 21 tests: 16 General Studies tests (8 sectional and 8 full-length tests) plus 5 Essay tests."
+      ]
+    },{
+      "tag": "test_series_test_structure",
+      "patterns": [
+        "How are the tests structured?",
+        "Can you describe the structure of the tests?",
+        "What is the format of the tests in the series?"
+      ],
+      "responses": [
+        "The tests are typically 3 hours long. They include Essay tests, Sectional tests focusing on specific subjects, and full-length tests that cover the entire syllabus of each General Studies paper."
+      ]
+    },
+    {
+      "tag": "joining_after_start_date",
+      "patterns": [
+        "Can I join the course after the starting date?",
+        "Is it possible to join the program after it has started?",
+        "What if I want to join the course after the start date?"
+      ],
+      "responses": [
+        "Yes, you can join after the starting date, but it's advisable to join on or before the mentioned dates to ensure you are fully prepared for UPSC CSE Mains."
+      ]
+    },
+    {
+      "tag": "refund_policy",
+      "patterns": [
+        "Is there any refund policy?",
+        "Can I get a refund if I don't want the course?",
+        "What is the refund policy for SuperKalam?"
+      ],
+      "responses": [
+        "We do not offer refunds as you will get instant complete access to SuperKalam. Please ensure that you review the Test Series schedule before enrolling."
+      ]
+    },
+    {
+      "tag": "superkalam_superpowers",
+      "patterns": [
+        "What are the superpowers of SuperKalam?",
+        "Can you tell me about the features of SuperKalam?",
+        "What makes SuperKalam special?"
+      ],
+      "responses": [
+        "SuperKalam offers several unique features:\n\n- *Daily New Analysis for UPSC Preparation:* Includes Daily News Analysis, Evaluation, and Streak to keep you updated and connected with the GS syllabus.\n- *Read Today’s News:* Stay informed and prepare for UPSC Prelims with the latest updates.\n- *Practice MCQs 24x7:* Access MCQs on any topic, track your accuracy and progress on the Leaderboard, and request MCQs to test your knowledge.\n- *UPSC Mains Answer Evaluation:* Share your handwritten Mains Answer with SuperKalam for instant feedback and get detailed evaluations and Model Answers."
+      ]
+    },
+    {
+      "tag": "about_us",
+      "patterns": [
+        "Tell me about SuperKalam.",
+        "What is SuperKalam about?",
+        "Can you describe SuperKalam and its mission?"
+      ],
+      "responses": [
+        "SuperKalam is an innovative AI-backed education initiative aimed at supporting students in India who aspire to top careers in Engineering, Medicine, and Civil Services. With over 5 million students setting their sights on these careers each year, SuperKalam addresses the challenge of finding great mentors and teachers by offering personalized mentorship within a disciplined learning ecosystem. \n\nSuperKalam prepares study plans, sets daily targets based on student progress, and tracks common mistakes and time spent on specific concepts. This approach is designed to enhance learning and is currently focused on the Indian Civil Services Examination (UPSC), with a goal to scale and reach 5 million students across India."
+      ]
+    },
+    {
+      "tag": "FOCUS_Batch_Overview",
+      "patterns": [
+        "What is the FOCUS Batch?",
+        "Tell me about the FOCUS Batch for UPSC.",
+        "What does the FOCUS Batch include?"
+      ],
+      "responses": [
+        "The FOCUS Batch offers complete UPSC 2025-26 preparation with features like daily GS targets, real-time progress reports, personal mentorship, full SuperKalam access, course sessions, and comprehensive syllabus coverage. It's designed for both full-time students and working professionals."
+      ]
+    },
+    {
+      "tag": "FOCUS_Batch_Structure",
+      "patterns": [
+        "How is the FOCUS Batch structured?",
+        "What is the study plan for the FOCUS Batch?",
+        "Can you describe the weekly targets for the FOCUS Batch?"
+      ],
+      "responses": [
+        "The FOCUS Batch emphasizes daily discipline with a study routine of 5-7 hours per day, 6 days a week. It includes daily Prelims, Current Affairs, and Mains questions, with weekly tests featuring 40 questions each. The initial weeks focus on Polity and Environment & Ecology."
+      ]
+    },
+    {
+      "tag": "FOCUS_Batch_Weekly_Plan",
+      "patterns": [
+        "What are the weekly targets for the FOCUS Batch?",
+        "Can you provide details about the weekly plan for the FOCUS Batch?",
+        "What topics are covered in the first weeks of the FOCUS Batch?"
+      ],
+      "responses": [
+        "The first weeks of the FOCUS Batch focus on Polity and Environment & Ecology. For example:\n- Week 1: Orientation, The Hindu Reading, Polity Chapters 1-7\n- Week 2: Polity Chapters 8-12\n- Week 3: Polity Chapters 13-17, Environment Module 1\n- This continues with detailed coverage of topics each week."
+      ]
+    }
+    
+    
+    
+                         
+      
+    
+  ]
+}
